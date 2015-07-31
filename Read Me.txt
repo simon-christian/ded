@@ -1,1 +1,3 @@
 This is a new version of the text editor ded.
+It was written in the 1980s at the company Spectra-Tek, Malton, North Yorkshire.
+
